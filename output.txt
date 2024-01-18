@@ -1,0 +1,107 @@
+$ python employees.py
+Enter the path to the .xlsx file: Assignment_Timecard.xlsx
+
+Names of employees who has worked for 7 consecutive days:
+CEreira Jr, JEse
+GAeWdia, JAaW CarXEs
+Sparks, KeWWeMh
+SiWgh, JaspreeM
+
+Names of employees who have less than 10 hours of time between shifts but greater than 1 hour:
+RaCEs HerWaWdez, AdieX ECar
+CercadE, CrisMiaW
+PaXaciE, JEWaMhaW
+AXvarez, Edgar
+ViXXa, AXfredE AieXXE
+SaWchez PaCpXEWa, CrisMiaW AXGerM
+MraW, WiXXiaC Ha
+DiXXard, JEwaWW Cedric
+MAake, CasiaWE
+SiWgh, MarAWpreeM
+VasqAez, JEhW SeGasMiaW
+REsaXiaWE, XAis
+De Xa Cerda, IgWaciE
+REdrigAez, GraWdEW AWgeX
+HAWMer, ViWceWM De PaAX
+Merrazas, GriaW
+ErEpeza, JEvaW
+CEMMa, Jessica
+SiWgXeMEW, REger
+CeciWa, SiXvesMre Jr
+PayaW, DaWieX
+De XEs SaWMEs, JEseph XAis
+ArrAMia, AXexis ArMArE
+RECerE, SergiE
+EsMrada, JEse FeXix
+HerCEsiXXE, PedrE
+Caxies, MerreXX
+DeXgadiXXE REdarMe, ChrisMiaW S
+XEpez WAWez, XAis
+CiGriaW DeXgadE, EXeWa S
+ArEsMigAi, AXexaWder
+SMrickXaWd, REdWey EAgeWe
+XiWW, JAsMiW
+ZaCEra, CigAeX
+AGeX, WaMhaW REGerM PeWa
+CaMXEck, CEhaCCed
+MaXeGi, ACirCasEAd
+CaMaXaWE, CeghaW
+ArCeWMa FXEres, JEWaMhaW
+AXcEcer, ECar JesAs
+Arias, FeXipe
+SaWchez, ArWAXfE
+ErEzcE, SaAX
+CaraGiXXa, AWMhEWy
+ZaCEra, Edward
+REdrigAez, AXexis GAMierrez
+RAvaXcaGa GaWAeXEs, DaWieX JesAs
+ErMiz, AGigaiX
+HEGGie ErMega, SeGasMiaW CichaeX
+ChaCErE, HEXger CarMiWez
+Perez, EdwiW JiCeWez
+IWGEAa, JeffersEW
+VasqAez, AXfredE
+CaXdEWadE, AXfEWsE
+DECiWgAez AviWa, CigAeX AWgeX
+GaXCes, EXias XEpez
+HerWaWdez SaWchez, AWdrew AWMhEWy
+PerkiWs, MarraWce
+Diaz GaXvez, RicardE JEsAe
+HaCiXMEW, DeaWMe DevEW
+MAcker, CichaeX
+GarWes, JAsMiW
+Xee, XaCar
+ArevaXE, JEse
+CcRAWWeX, REWaXd Xee
+GrACfieXd, CErWeXiAs
+CeWdEza, Erik
+REdrigAez, XAis
+CEreira Jr, JEse
+VaXderraCa CasMiXXE, Escar FaGiaW
+WgAyeW, RayCEWd
+CercadE, SaAX
+GAeWdia, JAaW CarXEs
+XariEs XaWdaverde, XAis ErWesME
+SavaWg, JEhW
+EXivares, FeXCaW
+CErMes, DEAgXas Farid
+SiWgh, JaspreeM
+DiWh, DaA
+REdrigAez, PedrE
+GaWks, GryaW
+Rivera AXcaWMar, GrayaW
+GAMierrez, PedrE CigAeX
+EasMCaW, CichaeX
+CesiWa CEreWE, KeviW FaGiaW
+WiXXiaCs, MyrreXX
+Sparks, KeWWeMh
+CAevas ZavaXa, JErge XAis
+XariEs, Cesar GiEvaWWi
+PaAXE, KyXe
+JerEWiCE CEraXes, CarXEs D
+FaGiaW CiraWda, JEse
+SiWgh, CaWpreeM
+FeXix, XeEWeX
+
+Names of employees who has worked for more than 14 hours in a single shift:
+DeXgadiXXE REdarMe, ChrisMiaW S
